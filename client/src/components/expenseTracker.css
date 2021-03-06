@@ -1,0 +1,67 @@
+.ExpenceTracker {
+  
+    text-align: center;
+    margin-top: -2%;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    margin-left: 38%;
+    margin-right: 38%;
+    
+    background-color: rgb(231, 226, 226);
+  }
+  
+  h5{
+    font-family: 'Impact, Charcoal, sans-serif';
+    font-size: x-large;
+  }
+  
+  .income-expense{
+    margin-left: 70px;
+    margin-right: 70px;
+    background-color: white;
+    border: groove;
+    padding-bottom: 10px;
+   
+    
+  }
+  .income{
+    float: left;
+    margin-left: 20px;
+  }
+  ..expense{
+    float: right;
+  }
+  .current-balance{
+    
+  }
+  
+  .amount{
+    margin-top: 0px;
+  }
+  
+  .income-item{
+    background-color: green;
+    color: white;
+    margin-left: 20%;
+    margin-right: 20%;
+    padding: 3px;
+    border: groove;
+    margin-bottom: 2px;
+  }
+  .expense-item{
+    background-color: red;
+    color: white;
+    margin-left: 20%;
+    margin-right: 20%;
+    padding: 3px;
+    border: groove;
+    margin-bottom: 2px;
+  }
+  
+  
+  .history-name{
+    float: left;
+  }
+  .history-value{
+    float: right;
+  }
